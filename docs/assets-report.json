@@ -1,0 +1,86 @@
+[
+  {
+    "file": "public/images/ap401-living-small.webp",
+    "source": "49d6bc2905bb80e4.jpg",
+    "width": 640,
+    "bytes": 31418
+  },
+  {
+    "file": "public/images/ap401-living.webp",
+    "source": "49d6bc2905bb80e4.jpg",
+    "width": 1440,
+    "bytes": 105858
+  },
+  {
+    "file": "public/images/ap401-living-gallery-small.webp",
+    "source": "d1e1c603065cebce.jpg",
+    "width": 640,
+    "bytes": 26866
+  },
+  {
+    "file": "public/images/ap401-living-gallery.webp",
+    "source": "d1e1c603065cebce.jpg",
+    "width": 1311,
+    "bytes": 73734
+  },
+  {
+    "file": "public/images/ap401-suite-small.webp",
+    "source": "148b558247f9aecb.jpg",
+    "width": 640,
+    "bytes": 29252
+  },
+  {
+    "file": "public/images/ap401-suite.webp",
+    "source": "148b558247f9aecb.jpg",
+    "width": 1421,
+    "bytes": 86414
+  },
+  {
+    "file": "public/images/ap401-cozinha-small.webp",
+    "source": "2ff961bf471cb291.jpg",
+    "width": 640,
+    "bytes": 36666
+  },
+  {
+    "file": "public/images/ap401-cozinha.webp",
+    "source": "2ff961bf471cb291.jpg",
+    "width": 1440,
+    "bytes": 121084
+  },
+  {
+    "file": "public/images/ap401-estar-small.webp",
+    "source": "53465f69d37199c6.jpg",
+    "width": 640,
+    "bytes": 71342
+  },
+  {
+    "file": "public/images/ap401-estar.webp",
+    "source": "53465f69d37199c6.jpg",
+    "width": 1421,
+    "bytes": 270542
+  },
+  {
+    "file": "public/images/ap401-bwc-small.webp",
+    "source": "12e2aafc316f9183.jpg",
+    "width": 640,
+    "bytes": 29692
+  },
+  {
+    "file": "public/images/ap401-bwc.webp",
+    "source": "12e2aafc316f9183.jpg",
+    "width": 1404,
+    "bytes": 92928
+  },
+  {
+    "file": "public/images/ap401-detalhe-small.webp",
+    "source": "17741fd214697f12.jpg",
+    "width": 640,
+    "bytes": 40238
+  },
+  {
+    "file": "public/images/ap401-detalhe.webp",
+    "source": "17741fd214697f12.jpg",
+    "width": 1421,
+    "bytes": 129850
+  }
+]
